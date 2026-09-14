@@ -55,7 +55,7 @@
 | Сайт | Что это | Репозиторий |
 |:--|:--|:--|
 | [Юрий Домбровский](https://dombrovsky.gulagmemory.org) | Веб-архив писателя: сочинения, письма, документы, записи | [dombrovsky.ru](https://github.com/gulag-museum/dombrovsky.ru) |
-| [Мой ГУЛАГ](https://mygulag.org) | Архив видеовоспоминаний о репрессиях. Перенесён на mygulag.org; в репозитории — снимок прежней версии | [mygulag.ru](https://github.com/gulag-museum/mygulag.ru) |
+| [Мой ГУЛАГ](https://mygulag.org) | Архив видеовоспоминаний о репрессиях: 433 фильма. Перенесён на mygulag.org; в репозитории — снимок сентября 2026 года | [mygulag.ru](https://github.com/gulag-museum/mygulag.ru) |
 
 ### Готовится к переносу
 
